@@ -614,6 +614,24 @@ nav ul li a:hover {
     margin-bottom: 1em;
 }
 
+.audio-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.audio-container h3 {
+    font-size: 1.5em;
+    color: #1da1f2;
+    margin-bottom: 10px;
+}
+
+audio {
+    width: 100%;
+    max-width: 600px;
+    outline: none;
+}
+
+
 /* Video Grid */
 .video-grid {
     display: grid;
