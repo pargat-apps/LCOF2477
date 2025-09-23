@@ -6,7 +6,7 @@ A modern, responsive website for Cleanify vacuum cleaner solutions, featuring cu
 
 ## 🌟 Live Demo
 
-🔗 **Live Website**: [https://pargat-apps.github.io/LCOF2477/](https://pargat-apps.github.io/LCOF2477/)
+🔗 Live Demo: https://pargatfolio.com/
 
 ## ✨ Features
 
