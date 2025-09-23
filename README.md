@@ -2,9 +2,7 @@
 
 A modern, responsive website for Cleanify vacuum cleaner solutions, featuring cutting-edge cleaning technology and innovative products.
 
-![Cleanify Logo](images/logo.png)
-
-## 🌟 Live Demo
+## 🌐 Live Demo
 
 🔗 Live Demo: https://pargat-apps.github.io/LCOF2477/
 
